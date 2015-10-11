@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyResource", "EasyResource\EasyResource.csproj", "{CDE7E2C0-FEC9-4D53-807B-E30721EE6DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyResourceTests", "EasyResourceTests\EasyResourceTests.csproj", "{48DCBC8E-D188-4C2A-932F-93FA5043E14F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7DDF8553-CA59-4F8A-BB59-6A40AFA39D45}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE7E2C0-FEC9-4D53-807B-E30721EE6DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE7E2C0-FEC9-4D53-807B-E30721EE6DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE7E2C0-FEC9-4D53-807B-E30721EE6DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE7E2C0-FEC9-4D53-807B-E30721EE6DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DCBC8E-D188-4C2A-932F-93FA5043E14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DCBC8E-D188-4C2A-932F-93FA5043E14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DCBC8E-D188-4C2A-932F-93FA5043E14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DCBC8E-D188-4C2A-932F-93FA5043E14F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
