@@ -1,6 +1,3 @@
-# Easy-Resources
-Fetch embedded resources easily
-
 
 	## Fetch from any assembly by specifying a type that is defined in the target assembly.
 	string resource = EasyResources.GetStringResource<UnitTest1>("/Resources/textfile.txt"); 
